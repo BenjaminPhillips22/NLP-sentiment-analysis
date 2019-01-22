@@ -1,7 +1,7 @@
 ## Natural Language Processing - Sentiment Analysis
 
 Ben Phillips
-[Portfolio]http://benjaminphillips22.github.io)
+[Portfolio](http://benjaminphillips22.github.io)
 
 This repository contains three notebooks which each create a different NLP model to predict the sentiment (positive or negative) of a movie review.
 
