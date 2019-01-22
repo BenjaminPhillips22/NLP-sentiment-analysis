@@ -4,8 +4,9 @@ This repository contains three notebooks which each create a different NLP model
 
 The dataset are IMDB movie reviews and can be found [here](https://www.kaggle.com/utathya/imdb-review-dataset).
 
-#### [Part 1](https://colab.research.google.com/drive/1YQm_uZvSVQ3vvfVrkeVDu-Ru2osVuHyU)
-Pretrained work embeddings(from [GloVe](https://nlp.stanford.edu/projects/glove/)) with 100 dimensions are used. The input to the network is the average of the word embeddings of each word in the review.
+#### Part 1
+View on [colab](https://colab.research.google.com/drive/1YQm_uZvSVQ3vvfVrkeVDu-Ru2osVuHyU)
+Pretrained work embeddings (from [GloVe](https://nlp.stanford.edu/projects/glove/)) with 100 dimensions are used. The input to the network is the average of the word embeddings of each word in the review.
 
 The trained model achieves an AUC of 0.88 on the test dataset.
 
