@@ -1,5 +1,8 @@
 ## Natural Language Processing - Sentiment Analysis
 
+Ben Phillips
+[Portfolio]http://benjaminphillips22.github.io)
+
 This repository contains three notebooks which each create a different NLP model to predict the sentiment (positive or negative) of a movie review.
 
 The dataset are IMDB movie reviews and can be found [here](https://www.kaggle.com/utathya/imdb-review-dataset).
@@ -41,7 +44,5 @@ An AUC of 0.9 was obtained on the test dataset. A greater score may be possible 
 
 The model is able to view words like 'good' within the context of the sentence.
 
-![](good.png)
+![](good.PNG)
 
-
-#### You can see my portfolio [here](http://benjaminphillips22.github.io).
